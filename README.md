@@ -13,6 +13,10 @@ Test examples of using some conponents for those who start working with cypress.
 4. Use `npx cypress open` for running tests.
 
 ## Components
-- Add/Remove Element
-- Resending the instruction if no response is received.
-- No need to provide instruction's head and terminator.
+- Add/Remove Element.
+- Checkbox.
+- Dropdown.
+- Form Authentication.
+- Horizontal Slider.
+- Hover.
+- Input.
